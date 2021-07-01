@@ -1,0 +1,17 @@
+body{
+    font-family: 'Akaya Kanadaka', cursive;
+    background-image: url(1_z0kGxAWFi6z1SA-4rFgR2g.png);
+    background-size: cover;
+}
+#title{
+    font-size: 70px;
+    margin-top: -10px;
+}
+.images{
+    height:300px;
+    width: 300px;
+    
+}
+.images:hover{
+    transform: scale(0.8);
+}
